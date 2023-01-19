@@ -91,6 +91,7 @@ elif choice == "ATHEIST":
     exit()
 else:
     print("I'm sorry no habla espaniol")
+    exit()
 
 
 
